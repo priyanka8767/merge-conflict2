@@ -5,6 +5,7 @@ Initial Function()
   //Sample Code
 }
 
+<<<<<<< HEAD
 
 
 feature1()
@@ -20,6 +21,9 @@ feaature2()
 
 
 Initial Security()
+=======
+Initial Function2()
+>>>>>>> parent of f71ccdc... Update main.c
 {
  //Sample Code
 }
